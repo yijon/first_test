@@ -1,4 +1,5 @@
-﻿----------- POI 所有 Record 类型的 与 sid 的关系列表---------------
+修改测试
+----------- POI 所有 Record 类型的 与 sid 的关系列表---------------
  
 1::::::::org.apache.poi.hssf.record.AreaFormatRecord::::sid:::::【4106】
 2::::::::org.apache.poi.hssf.record.AreaRecord::::sid:::::【4122】
